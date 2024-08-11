@@ -96,3 +96,9 @@ Most used public languages (as per our overlord Github)
 --------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitlyTwiser)](https://github.com/BitlyTwiser/github-readme-stats)
+
+
+Some Stats (WakaTime)
+--------------------
+[![wakatime](https://wakatime.com/badge/user/c88b1c9a-f430-41ce-9dc3-b418b84a3fe4.svg)](https://wakatime.com/@c88b1c9a-f430-41ce-9dc3-b418b84a3fe4) <br />
+[![BitlyTwiser's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitlyTwiser)](https://github.com/anuraghazra/github-readme-stats)
