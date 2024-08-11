@@ -46,17 +46,18 @@ __________ .__   __   .__          ___________         .__
 
 WHOAMI - What I do
 -----------------
-Software engineer <br />
-VIM user <br />
-Amateur radio human <br />
-I enjoy clinging to rocks <br />
-motorcycles <br />
-Jui-Jitsu (agressive hugging)  <br />
-caressing keyboards to make cool stuff <br />
-electrons <br />
-soldering <br />
-doggos <br />
-coffee <br />
+- Software engineer 🖥️A <br />
+- VIM user 📝 <br />
+- Amateur radio human 📻 <br />
+- I enjoy clinging to rocks 🧗‍♂️ <br />
+- Motorcycles 🏍️ <br />
+- Jiu-Jitsu (aggressive hugging) 🥋 <br />
+- Caressing keyboards to make cool stuff 💻 <br />
+- Electrons ⚛️ <br />
+- Soldering 🔧 <br /> 
+- Doggos 🐕 <br />
+- Coffee ☕ <br />
+
 
 I like hard problems, advancing myself, and enjoying each day.
 
@@ -85,6 +86,8 @@ Enjoyed Languages
 [![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB     )](https://www.python.org/)
 [![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD           )](https://www.lua.org/)
 [![C++](       https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C       )](https://isocpp.org/)
+[![C Lang](    https://img.shields.io/badge/-C_Lang-333333?style=for-the-badge&logo=c&logoColor=white&labelColor=6899CC          )](https://en.cppreference.com/w/c)
+[![Ruby](       https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=white&labelColor=de263f       )](https://www.ruby-lang.org/en/)
 
 <br />
 
