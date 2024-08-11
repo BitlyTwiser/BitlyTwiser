@@ -48,6 +48,7 @@ WHOAMI - What I do
 -----------------
 - Software engineer 🖥️A <br />
 - VIM user 📝 <br />
+- Avid book reader 📖 <br />
 - Amateur radio human 📻 <br />
 - I enjoy clinging to rocks 🧗‍♂️ <br />
 - Motorcycles 🏍️ <br />
