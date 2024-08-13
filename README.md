@@ -46,7 +46,7 @@ __________ .__   __   .__          ___________         .__
 
 WHOAMI - What I do
 -----------------
-- Software engineer 🖥️A <br />
+- Software engineer 🖥️ <br />
 - VIM user 📝 <br />
 - Avid book reader 📖 <br />
 - Amateur radio human 📻 <br />
