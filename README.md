@@ -88,6 +88,7 @@ Enjoyed Languages
 [![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD           )](https://www.lua.org/)
 [![C++](       https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C       )](https://isocpp.org/)
 [![C Lang](    https://img.shields.io/badge/-C_Lang-333333?style=for-the-badge&logo=c&logoColor=white&labelColor=6899CC          )](https://en.cppreference.com/w/c)
+[![Rust](       https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=white&labelColor=de263f       )](https://www.rust-lang.org/)
 [![Ruby](       https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=white&labelColor=de263f       )](https://www.ruby-lang.org/en/)
 
 <br />
