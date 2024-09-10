@@ -42,6 +42,7 @@ WHOAMI - What I do
 -----------------
 - Software engineer 🖥️ <br />
 - VIM user 📝 <br />
+- Professional tinkerer 🔧 <br />
 - Avid book reader 📖 <br />
 - Amateur radio human 📻 <br />
 - I enjoy clinging to rocks 🧗‍♂️ <br />
@@ -53,8 +54,7 @@ WHOAMI - What I do
 - Doggos 🐕 <br />
 - Coffee ☕ <br />
 
-
-I like hard problems, advancing myself, and enjoying each day.
+I like doing stuff and making things ☮️
 
 <br />
 
@@ -64,6 +64,7 @@ My (public) Work 📦
 - #### <a href="https://github.com/BitlyTwiser/pufs"><img align="center" src="https://img.shields.io/badge/-pufs-D02670?style=for-the-badge"></a> :&nbsp; Decentralized file system using the InterPlanetary File System (IPFS) project, gRPC, and google protocol buffers.
   - #### <a href="https://github.com/BitlyTwiser/throw"><img align="center" src="https://img.shields.io/badge/-throw-D02670?style=for-the-badge"></a> :&nbsp; An interface for Pufs ^^
 - #### <a href="https://github.com/BitlyTwiser/torMonger"><img align="center" src="https://img.shields.io/badge/-torMonger-028AAB?style=for-the-badge"></a> :&nbsp; A Dark Web crawler to crawl Tor network nodes.
+- #### <a href="https://github.com/BitlyTwiser/zlog"><img align="center" src="https://img.shields.io/badge/-Zlog-F48C38?style=for-the-badge"></a> :&nbsp; A content site generate converting markdown -> HTML for a simple blogging platform (written in Zig). 
 - #### <a href="https://github.com/BitlyTwiser/tinycrypt"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinycrypt?label=tinycrypt&style=for-the-badge&labelColor=4eb231&color=F48C38"></a> :&nbsp; Encryption program for hiding things
 - #### <a href="https://github.com/BitlyTwiser/slogger"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/slogger?label=slogger&style=for-the-badge&labelColor=31b2b0&color=F48C38"></a> :&nbsp; Wrapper for the slog package in Go
 - #### <a href="https://github.com/BitlyTwiser/tinychunk"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinychunk?label=tinychunk&style=for-the-badge&labelColor=20281e&color=F48C38"></a> :&nbsp; Split data into smaller chunks (Used primarily to split gRPC communications)
