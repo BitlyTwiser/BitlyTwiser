@@ -61,6 +61,7 @@ I like doing stuff and making things ☮️
 My (public) Work 📦
 -----------
 - #### <a href="https://github.com/BitlyTwiser/tinyORM"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinyORM?label=tinyORM&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; Small, light ORM for simplicity
+- #### <a href="https://github.com/BitlyTwiser/apprunner"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/apprunner?label=apprunner&style=for-the-badge&labelColor=20281e&color=F48C20"></a> :&nbsp; An application runner using Tmux to spawn windows/programs based on a YAML config file.
 - #### <a href="https://github.com/BitlyTwiser/pufs"><img align="center" src="https://img.shields.io/badge/-pufs-D02670?style=for-the-badge"></a> :&nbsp; Decentralized file system using the InterPlanetary File System (IPFS) project, gRPC, and google protocol buffers.
   - #### <a href="https://github.com/BitlyTwiser/throw"><img align="center" src="https://img.shields.io/badge/-throw-D02670?style=for-the-badge"></a> :&nbsp; An interface for Pufs ^^
 - #### <a href="https://github.com/BitlyTwiser/torMonger"><img align="center" src="https://img.shields.io/badge/-torMonger-028AAB?style=for-the-badge"></a> :&nbsp; A Dark Web crawler to crawl Tor network nodes.
