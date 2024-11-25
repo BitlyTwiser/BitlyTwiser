@@ -49,8 +49,6 @@ WHOAMI - What I do
 - Motorcycles 🏍️ <br />
 - Jiu-Jitsu (aggressive hugging) 🥋 <br />
 - Caressing keyboards to make cool stuff 💻 <br />
-- Electrons ⚛️ <br />
-- Soldering 🔧 <br /> 
 - Doggos 🐕 <br />
 - Coffee ☕ <br />
 
