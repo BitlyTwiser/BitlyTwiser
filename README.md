@@ -1,104 +1,62 @@
-<h1 align="center">Hey there 👋, I'm BitlyTwiser (Josh)!</h1>
+<div align="center">
+
+<img src="keyboard.svg" width="340" alt="HELLO WORLD" />
+
+### Josh &nbsp;·&nbsp; `@BitlyTwiser`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00CC69&center=true&vCenter=true&width=420&height=28&lines=Software+engineer;VIM+user;Professional+tinkerer;Enjoyer+of+things+computational" alt="" />
 
 <br />
 
-<div style="text-align: center;">
-  <img src="keyboard.svg" width="1000" style="display: block; margin: 0 auto;" />
+<a href="https://github.com/BitlyTwiser?tab=followers"><img src="https://img.shields.io/github/followers/BitlyTwiser?style=flat&labelColor=1b1f23&color=00CC69&label=followers&logo=github&logoColor=E7E7E7" alt="followers" /></a>
+&nbsp;
+<img src="https://badges.strrl.dev/years/BitlyTwiser?style=flat&labelColor=1b1f23&color=00CC69&label=years&logo=github&logoColor=E7E7E7" alt="years on GitHub" />
+&nbsp;
+<a href="https://hitscounter.dev/"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FBitlyTwiser&label=views&color=%231b1f23&message=&style=flat&tz=UTC" alt="views" /></a>
+
 </div>
 
 <br />
 
-<p align="center">
-    <b>Enjoyer of things computational</b>
-    <br />
-    <br />
-    <a href="https://hits.seeyoufarm.com/">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBitlyTwiser&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
-    </a>
-    <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/years/BitlyTwiser?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
-    </a>
-    <a href="https://github.com/BitlyTwiser?tab=followers">
-        <img src="https://img.shields.io/github/followers/BitlyTwiser?style=flat&labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/github/stars/BitlyTwiser?style=flat&affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
-    </a>
-    <br />
-    <a href="#">
-        <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/PRs-Welcome-00CC00?style=flat&labelColor=333333&logoColor=E7E7E7">
-    </a>
+Software engineer who likes doing stuff and making things. Comfortable low in the stack — **Go**, **Zig**, **Rust**, **C/C++** — with a soft spot for small, sharp tools. Off the keyboard: Mountain Biking, Rock climbing, motorcycles, jiu-jitsu, and coffee. ☮️
 
+<br />
+
+**Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,zig,rust,cpp,c,ruby,python,lua&theme=dark" alt="languages" />
+<br />
+<img src="https://skillicons.dev/icons?i=neovim,linux,docker,git,grpc,bash&theme=dark" alt="tooling" />
 </p>
 
 <br />
 
-<br />
+**Stats**
 
-WHOAMI - What I do
------------------
-- Software engineer 🖥️ <br />
-- VIM user 📝 <br />
-- Professional tinkerer 🔧 <br />
-- Avid book reader 📖 <br />
-- Amateur radio human 📻 <br />
-- I enjoy clinging to rocks 🧗‍♂️ <br />
-- Motorcycles 🏍️ <br />
-- Jiu-Jitsu (aggressive hugging) 🥋 <br />
-- Caressing keyboards to make cool stuff 💻 <br />
-- Doggos 🐕 <br />
-- Coffee ☕ <br />
-
-I like doing stuff and making things ☮️
+<p>
+<img src="github-metrics.svg" alt="GitHub metrics" width="100%" />
+</p>
 
 <br />
 
-My (public) Work 📦
------------
-- #### <a href="https://github.com/BitlyTwiser/tinyORM"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinyORM?label=tinyORM&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; Small, light ORM for simplicity
-- #### <a href="https://github.com/BitlyTwiser/apprunner"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/apprunner?label=apprunner&style=for-the-badge&labelColor=20281e&color=F48C20"></a> :&nbsp; An application runner using Tmux to spawn windows/programs based on a YAML config file.
-- #### <a href="https://github.com/BitlyTwiser/zdotenv"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/zdotenv?label=zdotenv&style=for-the-badge&labelColor=20281e&color=F48C20"></a> :&nbsp; A dotenv loader for Zig
-- #### <a href="https://github.com/BitlyTwiser/snek"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/snek?label=snek&style=for-the-badge&labelColor=82312f&color=A38C20"></a> :&nbsp; Snek - A simple CLI builder for Zig applications
-- #### <a href="https://github.com/BitlyTwiser/zinger"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/zinger?label=zinger&style=for-the-badge&labelColor=22912f&color=A38C20"></a> :&nbsp; Zinger - An HTTP library for network requests in Zig
-- #### <a href="https://github.com/BitlyTwiser/nostro"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/nostro?label=nostro&style=for-the-badge&labelColor=21412f&color=C39C40"></a> :&nbsp; Nostro - A filesystem search tool
-- #### <a href="https://github.com/BitlyTwiser/pufs"><img align="center" src="https://img.shields.io/badge/-pufs-D02670?style=for-the-badge"></a> :&nbsp; Decentralized file system using the InterPlanetary File System (IPFS) project, gRPC, and google protocol buffers.
-  - #### <a href="https://github.com/BitlyTwiser/throw"><img align="center" src="https://img.shields.io/badge/-throw-D02670?style=for-the-badge"></a> :&nbsp; An interface for Pufs ^^
-- #### <a href="https://github.com/BitlyTwiser/torMonger"><img align="center" src="https://img.shields.io/badge/-torMonger-028AAB?style=for-the-badge"></a> :&nbsp; A Dark Web crawler to crawl Tor network nodes.
-- #### <a href="https://github.com/BitlyTwiser/zlog"><img align="center" src="https://img.shields.io/badge/-Zlog-F48C38?style=for-the-badge"></a> :&nbsp; A content site generate converting markdown -> HTML for a simple blogging platform (written in Zig). 
-- #### <a href="https://github.com/BitlyTwiser/tinycrypt"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinycrypt?label=tinycrypt&style=for-the-badge&labelColor=4eb231&color=F48C38"></a> :&nbsp; Encryption program for hiding things
-- #### <a href="https://github.com/BitlyTwiser/slogger"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/slogger?label=slogger&style=for-the-badge&labelColor=31b2b0&color=F48C38"></a> :&nbsp; Wrapper for the slog package in Go
-- #### <a href="https://github.com/BitlyTwiser/tinychunk"><img align="center" src="https://img.shields.io/github/v/release/BitlyTwiser/tinychunk?label=tinychunk&style=for-the-badge&labelColor=20281e&color=F48C38"></a> :&nbsp; Split data into smaller chunks (Used primarily to split gRPC communications)
-- #### <a href="https://github.com/BitlyTwiser/neovim-configuration"><img align="center" src="https://img.shields.io/badge/-neovim-configuration-D02670?style=for-the-badge"></a> :&nbsp; Some Neovim configs (probably broken x.X )
+**Selected work**
 
+| | |
+|---|---|
+| **[tinyORM](https://github.com/BitlyTwiser/tinyORM)** | Small, light ORM built for simplicity |
+| **[apprunner](https://github.com/BitlyTwiser/apprunner)** | Spawns tmux windows/programs from a YAML config |
+| **[pufs](https://github.com/BitlyTwiser/pufs)** ·&nbsp;**[throw](https://github.com/BitlyTwiser/throw)** | Decentralized filesystem over IPFS + gRPC, and its interface |
+| **[torMonger](https://github.com/BitlyTwiser/torMonger)** | Dark-web crawler for Tor network nodes |
+| **[zlog](https://github.com/BitlyTwiser/zlog)** | Markdown → HTML static site generator, in Zig |
+| **[tinycrypt](https://github.com/BitlyTwiser/tinycrypt)** | Encryption program for hiding things |
+| **[snek](https://github.com/BitlyTwiser/snek)** ·&nbsp;**[zinger](https://github.com/BitlyTwiser/zinger)** ·&nbsp;**[zdotenv](https://github.com/BitlyTwiser/zdotenv)** | Zig toolkit — CLI builder, HTTP client, dotenv loader |
+| **[slogger](https://github.com/BitlyTwiser/slogger)** ·&nbsp;**[tinychunk](https://github.com/BitlyTwiser/tinychunk)** | Go `slog` wrapper &amp; a gRPC-friendly chunker |
+
+<sub>More at **[github.com/BitlyTwiser?tab=repositories](https://github.com/BitlyTwiser?tab=repositories)**</sub>
 
 <br />
 
-Enjoyed Languages
-------------------
-<br />
-
-[![Golang](    https://img.shields.io/badge/-Golang-333333?style=for-the-badge&logo=go&logoColor=white&labelColor=3776FB          )](https://go.dev/)
-[![Zig](    https://img.shields.io/badge/-Zig-333333?style=for-the-badge&logo=zig&logoColor=white&labelColor=DF9100     )](https://ziglang.org/)
-[![Python](    https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB     )](https://www.python.org/)
-[![Lua](       https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD           )](https://www.lua.org/)
-[![C++](       https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C       )](https://isocpp.org/)
-[![C Lang](    https://img.shields.io/badge/-C_Lang-333333?style=for-the-badge&logo=c&logoColor=white&labelColor=6899CC          )](https://en.cppreference.com/w/c)
-[![Rust](       https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust&logoColor=white&labelColor=de263f       )](https://www.rust-lang.org/)
-[![Ruby](       https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=white&labelColor=de263f       )](https://www.ruby-lang.org/en/)
-
-<br />
-
-
-Most used public languages (as per our overlord Github)
---------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitlyTwiser)](https://github.com/BitlyTwiser/github-readme-stats)
-
-
-Some Stats (WakaTime)
---------------------
-[![wakatime](https://wakatime.com/badge/user/c88b1c9a-f430-41ce-9dc3-b418b84a3fe4.svg)](https://wakatime.com/@c88b1c9a-f430-41ce-9dc3-b418b84a3fe4) <br />
-[![BitlyTwiser's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BitlyTwiser)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<sub><a href="https://wakatime.com/@c88b1c9a-f430-41ce-9dc3-b418b84a3fe4">WakaTime</a> &nbsp;·&nbsp; VIM forever &nbsp;·&nbsp; PRs welcome</sub>
+</div>
