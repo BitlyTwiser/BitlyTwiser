@@ -18,7 +18,7 @@
 
 <br />
 
-Software engineer who likes doing stuff and making things. Comfortable low in the stack — **Go**, **Zig**, **Rust**, **C/C++** — with a soft spot for small, sharp tools. Off the keyboard: Mountain Biking, Rock climbing, motorcycles, jiu-jitsu, and coffee. ☮️
+Software engineer who likes doing stuff and making things. Comfortable low in the stack — **Go**, **Zig**, **Rust**, **C/C++**, **Python** — with a soft spot for small, sharp tools. Off the keyboard: Mountain Biking, Rock climbing, motorcycles, jiu-jitsu, and coffee. ☮️
 
 <br />
 
